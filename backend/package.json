@@ -1,0 +1,13 @@
+{
+  "name": "lms-system",
+  "version": "1.0.0",
+  "description": "this is a final project for start coding LMS",
+  "homepage": "https://github.com/mobinsha/LMS#readme",
+  "license": "ISC",
+  "author": "Mobin Shkaier",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
