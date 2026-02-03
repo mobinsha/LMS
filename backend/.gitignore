@@ -82,3 +82,4 @@ tmp/
 .idea/
 
 Note.txt
+/generated/prisma
